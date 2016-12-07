@@ -1,0 +1,1 @@
+NDefines.NGameplay.CORE_SECTOR_SYSTEM_CAP = 50 -- Too many planets in core sector will apply modifier inefficient_planet_management.
