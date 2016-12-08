@@ -19,10 +19,16 @@ FR : Ce petit mode change le gameplay en élargissant le nombre total de planèt
 [*] NOT Ironman
 [/list]
 
+[h1]Licence GPL-3.0[/h1]
+You can retrieve this mod on GitHub : [url=https://github.com/lquattro/stellaris-mod-sector-planet-50]  GitHub Sector Planet 50 [/url]
+
+You can Follow me on steam, if you want receive the news (mod) and mod added. 
+
 [h1]Another Mod : [/h1]
 [list]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]  [i](link steam)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Micro System [/url] [i](link steam)[/i] : [i]Baby or Micro galaxy for fast game (compatible Multi)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=787688842]  Force Clear Crisis Event [/url] [i](link steam)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=814013110]  Politicals Sector Planet [/url] [i](link steam)[/i]
 [/list]
 ```
