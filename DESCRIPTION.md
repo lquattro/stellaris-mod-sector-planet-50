@@ -3,6 +3,19 @@
 ## Sector Planet 50
 
 ```
+[h1]Important message[/h1]
+[quote]
+Hi everybody,
+This mod change for deprecated status, because i invite players (which used this mod) to use the mod : 
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=682336292]  Flexible Core Planet Cap & Resettlement Cost[/url]
+Made by [url=http://steamcommunity.com/id/legendarymarvin]Legendarymarvin[/url] and with the contribution by Me.
+
+Description : Now you don't have basicly for all game 50 planets. You will have only two edicts, one for core planet cap, one for resettlement costs. These edicts will trigger an event, that will let you decide which change you want to planet cap/resettlement cost. Disabling the edict will disable the changes. This makes the edict interface a little more tidy.
+
+See screenshots :
+[img]http://images.akamai.steamusercontent.com/ugc/100601153643993538/D4EFC291D5919065F9EAFF986D5E1D71F4C3490E/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside|637:358&composite-to%3D%2A%2C%2A%7C637%3A358&background-color=black[/img]
+[/quote]
+
 [h1]-___Mod Verions 1.0.6___-[/h1]
 
 EN : This little mod changes the gameplay by enlarging the total number of planets from 5 to 50.
@@ -30,5 +43,6 @@ You can Follow me on steam, if you want receive the news (mod) and mod added.
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Micro System [/url] [i](link steam)[/i] : [i]Baby or Micro galaxy for fast game (compatible Multi)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=787688842]  Force Clear Crisis Event [/url] [i](link steam)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=814013110]  Politicals Sector Planet [/url] [i](link steam)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=818076635]  Flexible Core Planet Cap & Resettlement Cost v2 Beta [/url] [i](link steam)[/i]
 [/list]
 ```
